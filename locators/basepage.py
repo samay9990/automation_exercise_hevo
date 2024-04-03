@@ -1,0 +1,10 @@
+class BasePageLocators:
+    full_name = "xpath-->//input[@name='full-name']"
+    usermail = "xpath-->//input[@value!='required']"
+    password = "xpath-->//input[@id='password']"
+    submit_button = "xpath-->//button[@id='signup_submit_btn']"
+    reg_pwd = "xpath-->//input[@name='password']"
+    request_access_btn = "xpath-->//button[@data-id='135484']"
+    cancel_request_btn = " xpath-->//button[@id='revoke_request_cta']"
+    # email ="xpath-->//input[@id='email']"
+    # continue_btn ="xpath-->//button[@type='submit']"
