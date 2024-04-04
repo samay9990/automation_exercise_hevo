@@ -14,7 +14,7 @@ This repository contains test automation scripts to validate the creation and fu
    - git clone https://github.com/samay9990/automation_exercise_hevo.git
 
 3. Navigate to the project directory:
-   - cd automation-exercise_hevo
+   - cd automation_exercise_hevo
 
 4. Configure the test parameters:
    - Open config.yaml file and provide the necessary information such as database connection details, API keys, etc.
